@@ -114,7 +114,7 @@ Use updated browsers when visiting the site:
 
 ### Installation
 
-You can use this template for different projects by cloning this respo.
+You can use this template for different projects by cloning this repository.
 
 ## Usage
 
